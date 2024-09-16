@@ -4,7 +4,8 @@
 
 AutoReplyBot，这是一个影刀RPA脚本，旨在实现自动让AI来回复抖音、小红书、视频号等短视频平台的网友评论，运行脚本后，电脑将按下面所述流程进行工作
 
-![image-20240916235404173](C:\Users\Cai\AppData\Roaming\Typora\typora-user-images\image-20240916235404173.png)
+![微信图片_20240917001159](https://github.com/user-attachments/assets/23c0b585-7399-4e7e-9baa-ac9bceff9e71)
+
 
 ## 项目背景
 
